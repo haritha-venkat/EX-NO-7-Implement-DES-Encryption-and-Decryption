@@ -1,4 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption-and-Decryption
+# NAME:HARITHA SHREE
+# REG NO:212222230046
 ## Aim:
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
